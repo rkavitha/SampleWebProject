@@ -1,0 +1,4 @@
+Test log4j file output
+Sample Error
+12:14:08.120 [main] INFO  practice.Log4jTest - Test log4j file output
+12:14:08.129 [main] ERROR practice.Log4jTest - Sample Error

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SampleWebProject">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/java"/>
+        <wb-resource deploy-path="/" source-path="/resources/context"/>
+        <wb-resource deploy-path="/" source-path="/resources/jsp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test/groovy"/>
+        <property name="java-output-path" value="/SampleWebProject/bin"/>
+        <property name="context-root" value="myservlet"/>
+    </wb-module>
+</project-modules>
